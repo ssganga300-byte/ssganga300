@@ -22,7 +22,7 @@
 
 </td>
 <td width="40%">
-<img src="images/illustration.svg" width="300">
+<img src="images/abc.svg" width="300">
 </td>
 </tr>
 </table>
