@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Ganga S S</h1>
-<h3 align="center">3rd Year Engineering Student | Aspiring Cloud Engineer ☁️</h3>
+<h1 align="center">Hi 🧸💗, I'm Ganga S S</h1>
+<h3 align="center">🌷 3rd Year Engineering Student | Aspiring Cloud Engineer ☁️</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F77EB9&center=true&vCenter=true&lines=Passionate+about+Technology;Future+Cloud+Engineer;Web+Developer;Always+Learning+New+Things">
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF69B4&center=true&vCenter=true&lines=Dreaming+Big+in+Tech+%F0%9F%92%97;Future+Cloud+Engineer+%E2%98%81%EF%B8%8F;Web+Developer+%F0%9F%92%BB;Always+Learning+New+Things+%F0%9F%8C%B8">
 </p>
 
 ---
 
-## 💖 About Me
+## 🎀 About Me
 
 <table>
 <tr>
@@ -15,21 +15,21 @@
 
 - 🎓 3rd Year Engineering Student  
 - ☁️ Aspiring Cloud Engineer  
-- 💻 Interested in Web Development & Cloud Computing  
-- 📚 Currently learning DevOps & AWS  
-- 🚀 Building real-world projects  
-- 🌸 Love learning new technologies  
+- 💻 Web Development Lover  
+- 📚 Learning DevOps & AWS  
+- 🌸 Curious & Passionate Learner  
+- ✨ Love creating beautiful projects  
 
 </td>
 <td width="40%">
-<img src="images/abc.svg" width="300">
+<img src="images/illustration.svg" width="300">
 </td>
 </tr>
 </table>
 
 ---
 
-## 🧰 Tech Stack
+## 💅 Tech Stack
 
 ### 🎨 Frontend
 <img src="https://skillicons.dev/icons?i=html,css,js,react" />
@@ -45,22 +45,23 @@
 
 ---
 
-## 📌 Featured Projects
-- 🔹 Stock Price Prediction using ARIMA  
-- 🔹 Online Student Management System  
-- 🔹 Portfolio Website  
-- 🔹 Cloud Deployment Project  
+## 🌟 My Cute Projects
+
+- 🌸 Stock Price Prediction using ARIMA  
+- 🎓 Online Student Management System  
+- 💖 Personal Portfolio Website  
+- ☁️ Cloud Deployment Project  
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats (Pink Theme 💗)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username= ssganga300&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ssganga300&show_icons=true&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user= ssganga300&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ssganga300&theme=radical" />
 </p>
 
 ---
@@ -73,7 +74,7 @@
 
 ---
 
-## 🌐 Connect With Me
+## 💌 Connect With Me
 
 <p align="center">
 <a href="https://github.com/ssganga300">
@@ -87,5 +88,5 @@
 
 ---
 
-⭐ If you like my profile, give a star to my repositories!
+💖✨ Thanks for visiting my profile! Let’s build amazing things together 🌸
 
